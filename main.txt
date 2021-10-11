@@ -1,0 +1,5 @@
+Flutter support 16. But to run app on Android emulator, use over 19.
+
+https://github.com/flutter/flutter/issues/11094
+https://github.com/flutter/flutter/issues/9108
+https://github.com/flutter/flutter/issues/8610
